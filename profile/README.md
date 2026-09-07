@@ -1,45 +1,28 @@
-<div align="center">
+# Wirechunk
 
-# Wirechunk  
-**Websites That Drive Business Forward**
+### Do business with AI agents.
 
-AI-powered site builder + CMS + managed hosting for real-world marketing sites.
+Wirechunk builds websites that are optimized for AI agents. Your site helps agents discover your business, understand what you offer, and contact you on a customer’s behalf.
 
-[![Hiring](https://img.shields.io/badge/Hiring-Software%20Engineers-brightgreen)](#were-hiring)
-[![Stack](https://img.shields.io/badge/Stack-TypeScript_·_React_·_Node_·_PostgreSQL-blue)](#tech-we-use)
+When someone asks an AI agent to find a product or service, your website should help it understand whether your business is a good fit. What do you offer? Who is it for? How can someone take the next step? Your website should make those answers easy to find.
 
-</div>
+Wirechunk gives agents the information and tools to follow through.
 
-## What we’re building
+## Tell us about your business
 
-Wirechunk is an **AI-native website platform** for businesses. Beyond page editing, we provide the operational backbone a brand needs to publish confidently at scale.
+Describe what you do, share any materials you already have, and let Wirechunk ask the questions it needs to build your site. Review the result, make changes, and publish when you’re ready.
 
-- **AI in the loop** for design, content, and component-level edits.
-- **Integrated CMS** with structure, versioning, and roles/access built in.
-- **SEO & publishing workflows** that fit how teams actually ship.
-- **Production hosting** out of the box.
-- **Extensible from day one**: components, SDKs, and clean APIs.
+You can keep editing through conversation or update content directly. Use Wirechunk’s app or connect your own AI agent.
 
-## Why it matters
+## What your website includes
 
-Most teams don’t need five dashboards and a custom-coded platform. They need a fast path from idea to live, without sacrificing quality, customization, or performance. Nobody else is pursuing these goals the way we are.
+- **Clear business information.** Explain what you offer, whom you serve, and how to get in touch.
+- **HTML and Markdown.** Give humans and agents the same substantive information in the format they need.
+- **MCP and WebMCP tools.** Let agents search your site, read business information, and submit inquiries.
+- **Automatic technical SEO.** Get structured data, metadata, and sitemaps out of the box.
+- **Multiple languages.** Publish content in the languages your customers use.
+- **Your domain.** Connect an existing domain or use an included Wirechunk subdomain.
 
-## Tech we use
+Your site remains easy for people to navigate, read, and use, too.
 
-`TypeScript` · `React` · `Node.js` · `PostgreSQL` · `GraphQL` · `Prisma` · modern DX with a focus on performance and reliability.
-
-## We’re hiring
-
-We’re looking for **founding software engineers** who love shipping product, care about UX, and enjoy building robust systems.
-
-You’ll:
-
-- Own core surfaces (visual designer, rendering, content modeling, publishing).
-- Ship AI-assisted flows and tooling that make teams faster.
-- Help shape APIs and extension points for an ecosystem.
-
-**Interested?** Reach out at [wirechunk.com/careers](https://wirechunk.com/careers).
-
----
-
-🔗 **Learn more:** [wirechunk.com](https://wirechunk.com/)
+[Visit Wirechunk](https://wirechunk.com)

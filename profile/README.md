@@ -1,6 +1,6 @@
 # Wirechunk
 
-### Do business with AI agents.
+### Websites optimized for AI agents.
 
 Wirechunk builds websites that are optimized for AI agents. Your site helps agents discover your business, understand what you offer, and contact you on a customer’s behalf.
 
